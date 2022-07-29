@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1659082558,
+      "datetime": 1659087958,
       "filename": "project-404-5.0-20220729-131409-SHINKA-GAPPS-vayu.zip",
-      "id": "6a60fd4dbc27697d0abac1636e9367215b94811f3a637a245e804fe6db40ec3d",
+      "id": "1478da0fef2e8afe808d33838b14b5f424b6493fa4bb4e50637abe25455963ae",
       "romtype": "userdebug",
-      "size": 1821119057,
-      "url": "https://roms.cirrus-ci.workers.dev/0:/vayu/project-404-5.0-20220729-131409-SHINKA-GAPPS-vayu.zip",
+      "size": 1821053533,
+      "url": "https://bitch.sidgdrive.workers.dev/0:/project-404-5.0-20220729-144626-SHINKA-GAPPS-vayu.zip",
       "version": "5.0",
       "links": {
         "xda": "",
