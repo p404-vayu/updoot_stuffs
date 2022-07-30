@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1659122283,
-      "filename": "project-404-5.0-20220729-192021-SHINKA-GAPPS-vayu.zip",
-      "id": "1e216a0616a21219d2bce8d150bffecf420ff109f76729d30f662dfbf7ddae8f",
+      "datetime": 1659151729,
+      "filename": "project-404-5.0-20220730-032921-SHINKA-GAPPS-vayu.zip",
+      "id": "ddb5012d963b29d41f496184c31b7d0cbf3c99cc18405995edbc90c883a37aa5",
       "romtype": "userdebug",
-      "size": 1821041944,
-      "url": "https://roms.cirrus-ci.workers.dev/0:/vayu/project-404-5.0-20220729-192021-SHINKA-GAPPS-vayu.zip",
+      "size": 1821341746,
+      "url": "https://roms.cirrus-ci.workers.dev/0:/vayu/project-404-5.0-20220730-032921-SHINKA-GAPPS-vayu.zip",
       "version": "5.0",
       "links": {
         "xda": "",
@@ -14,8 +14,8 @@
         "deviceGroup": "https://t.me/clhex_chat"
       },
       "changes": [
-        "Misc Fixes and Improvement",
-        "Nfc fix"
+        "add landscape only mode in reticker",
+        "Source upstream lel"
       ]
     }
   ]
